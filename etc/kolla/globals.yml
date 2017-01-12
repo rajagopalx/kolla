@@ -163,3 +163,4 @@ neutron_external_interface: "eth1"
 #glance_backend_ceph: "no"
 
 #nova_backend_ceph: "no"
+#cinder_backup_share: ""
